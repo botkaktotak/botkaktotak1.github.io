@@ -1,0 +1,9 @@
+.header {
+  height: 400px;
+  background-image: url("images/bg.jpg");
+  color: white;
+  text-align: center;
+}
+.main {
+  margin-top: 10px;
+}
