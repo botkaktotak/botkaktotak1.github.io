@@ -30,10 +30,11 @@ body {
   background-color: #282C34;
   color: white;
   margin-top: 3rem;
+  font-size: vw;
 }
 .copyright {
   padding: 1rem;
-  background-color: #282C34;
+  background-color: #373838;
   color: darkgrey;
   text-align: center;
 }
