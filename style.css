@@ -7,12 +7,39 @@ body {
   color: white;
   text-align: center;
 }
+.display-2 {
+  font-size: 6vw;
+}
+.lead {
+  font-size: 2vw;
+}
 .main {
   margin-top: 10px;
 }
 .block {
   background-color: white;
-  padding: 5px;
+  padding: 15px;
   border-radius: 10px;
   box-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+.page-link {
+  background-color: #fff;
+}
+.footer {
+  padding: 2rem 0;
+  background-color: #282C34;
+  color: white;
+  margin-top: 3rem;
+}
+.copyright {
+  padding: 1rem;
+  background-color: #282C34;
+  color: darkgrey;
+  text-align: center;
+}
+.nav-link {
+  color: teal;
+}
+.nav-link:hover {
+  color: white;
 }
